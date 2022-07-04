@@ -12,21 +12,21 @@
 <h1>Proyectos</h1>
 <ul>
   <ol align='center'>
-      <a href='https://e-commerce-pf.vercel.app/'><img  src='img/e_commerce.png' alt='Proyecto' width='500px'/></a>
+      <a href='https://e-commerce-pf.vercel.app/'><img  src='img/e_commerce.png' alt='Proyecto' width='300px'/></a>
       &nbsp&nbsp&nbsp&nbsp&nbsp
-      <a href='https://pi-countries-main-five.vercel.app/home'><img  src='img/PI.png' alt='Proyecto' width='500px'/></a>
+      <a href='https://pi-countries-main-five.vercel.app/home'><img  src='img/PI.png' alt='Proyecto' width='300px'/></a>
   </ol>
   <ol align='center'>
     </br>
-    <a href='https://lnkd.in/d9wvXd9S'><img  src='img/beats.png' alt='Proyecto' width='500px'/></a>
+    <a href='https://lnkd.in/d9wvXd9S'><img  src='img/beats.png' alt='Proyecto' width='300px'/></a>
     &nbsp&nbsp&nbsp&nbsp&nbsp
-    <a href='https://ilmercatodelabasto.com/index.html/'><img  src='img/Carta.png' alt='Proyecto' width='500px'/></a>
+    <a href='https://ilmercatodelabasto.com/index.html/'><img  src='img/Carta.png' alt='Proyecto' width='300px'/></a>
   </ol>
   <ol align='center'>
     </br>
-    <a href='https://lnkd.in/dr5x36gP'><img  src='img/windbnb.png' alt='Proyecto' width='500px'/></a>
+    <a href='https://lnkd.in/dr5x36gP'><img  src='img/windbnb.png' alt='Proyecto' width='300px'/></a>
     &nbsp&nbsp&nbsp&nbsp&nbsp
-    <a href='https://lnkd.in/dEunMdx4'><img  src='img/sunnyside.png' alt='Proyecto' width='500px'/></a>
+    <a href='https://lnkd.in/dEunMdx4'><img  src='img/sunnyside.png' alt='Proyecto' width='300px'/></a>
   </ol>
 </ul>
 
