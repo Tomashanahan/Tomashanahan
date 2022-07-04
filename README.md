@@ -18,6 +18,3 @@
 </br>
 <hr></hr>
 </br>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomashanahan&show_icons=true&theme=nord&locale=en&layout=compact" alt="Tomashanahan"/>
-</p>
