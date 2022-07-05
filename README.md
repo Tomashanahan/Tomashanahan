@@ -5,8 +5,6 @@
 ##
 
 
-<h1>Sobre mi</h1>
-<p>Aca va el sobre mi</p>
 
 <h1>Proyectos</h1>
 <ul>
