@@ -12,7 +12,7 @@
 
 - 💬 Ask me about JavaScript, TypeScript, NodeJS, React, React-TypeScript, HTML, CSS, Tailwindcss, Bootstrap, Jest-test-react, Redux, Express-validador, Express, PostgreSQL, OAuth,  Sequelize, Json Web Tokens,  MogonDB
 
-- 📫 How to reach me sdmoreno51@gmail.com
+- 📫 How to reach me tshmg@gmail.com
 
 - ⚡ Fun fact I love animals and I like to go to the gym
 
