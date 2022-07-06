@@ -14,8 +14,6 @@
 
 - 📫 How to reach me tshmg@gmail.com
 
-- ⚡ Fun fact I love animals and I like to go to the gym
-
 <br />
 <br />
 <br />
