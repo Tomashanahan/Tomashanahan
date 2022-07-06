@@ -4,7 +4,7 @@
 
 ##
 
-- 🔭 I’m currently working on [personal projects](https://e-commerce-pf.vercel.app/)
+- 🔭 I’m currently working on [E-commerce](https://e-commerce-pf.vercel.app/)
 
 - 🌱 I’m currently learning React and ingles
 
