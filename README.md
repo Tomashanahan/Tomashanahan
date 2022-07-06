@@ -1,15 +1,15 @@
 # Hola, soy Tom 👋🏼
 
 
-- 🔭 I’m currently working on [E-commerce](https://e-commerce-pf.vercel.app/)
+- 🔭 En que estoy trabajando [E-commerce](https://e-commerce-pf.vercel.app/)
 
-- 🌱 I’m currently learning React and ingles
+- 🌱 Estoy aprendiendo React e ingles
 
-- 👨‍💻 All of my projects are available at [My projects](https://github.com/Tomashanahan?tab=repositories)
+- 👨‍💻 Todos mis proyectos los podes encontrar en [My projects](https://github.com/Tomashanahan?tab=repositories)
 
-- 💬 Ask me about JavaScript, TypeScript, NodeJS, React, React-TypeScript, HTML, CSS, Tailwindcss, Bootstrap, Jest-test-react, Redux, Express-validador, Express, PostgreSQL, OAuth,  Sequelize, Json Web Tokens,  MogonDB
+- 💬 Preguntame cosas sobre JavaScript, TypeScript, NodeJS, React, React-TypeScript, HTML, CSS, Tailwindcss, Bootstrap, Jest-test-react, Redux, Express-validador, Express, PostgreSQL, OAuth,  Sequelize, Json Web Tokens,  MogonDB
 
-- 📫 How to reach me tshmg@gmail.com
+- 📫 Como encontrarme tshmg@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomashanahan&show_icons=true&theme=nord)
 
