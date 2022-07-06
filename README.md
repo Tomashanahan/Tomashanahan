@@ -15,10 +15,6 @@
 
 ##
 
-<br />
-<br />
-<br />
-
 
 <h1>Proyectos</h1>
 <ul>
