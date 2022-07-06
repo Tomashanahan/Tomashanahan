@@ -1,8 +1,5 @@
 # Hola, soy Tom 👋🏼
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomashanahan&show_icons=true&theme=nord)
-
-##
 
 - 🔭 I’m currently working on [E-commerce](https://e-commerce-pf.vercel.app/)
 
@@ -13,6 +10,10 @@
 - 💬 Ask me about JavaScript, TypeScript, NodeJS, React, React-TypeScript, HTML, CSS, Tailwindcss, Bootstrap, Jest-test-react, Redux, Express-validador, Express, PostgreSQL, OAuth,  Sequelize, Json Web Tokens,  MogonDB
 
 - 📫 How to reach me tshmg@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomashanahan&show_icons=true&theme=nord)
+
+##
 
 <br />
 <br />
