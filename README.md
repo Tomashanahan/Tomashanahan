@@ -1,7 +1,7 @@
 # Hola, soy Tom 👋🏼
 
 
-- 🔭 En que estoy trabajando [E-commerce]([https://e-commerce-pf.vercel.app/](https://github.com/Tomashanahan/crwn-clothing-v2))
+- 🔭 En que estoy trabajando [E-commerce](https://e-commerce-pf.vercel.app/](https://github.com/Tomashanahan/crwn-clothing-v2))
 
 - 🌱 Estoy aprendiendo React e ingles
 
