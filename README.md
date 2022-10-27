@@ -1,8 +1,6 @@
 # Hola, soy Tom 👋🏼
 
 
-- 🔭 En que estoy trabajando [E-commerce](https://github.com/Tomashanahan/crwn-clothing-v2)
-
 - 🌱 Estoy aprendiendo React e ingles
 
 - 👨‍💻 Todos mis proyectos los podes encontrar en [My projects](https://github.com/Tomashanahan?tab=repositories)
