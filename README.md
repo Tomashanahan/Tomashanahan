@@ -6,11 +6,6 @@
 
 - 📫 How to find me tshmg@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomashanahan&show_icons=true&theme=nord)
-
-##
-
-
 </br>
 <h1>Technologies</h1>
 <div align='center'>
@@ -34,6 +29,9 @@
   <img src='https://img.shields.io/badge/vercel-%2320232a.svg?style=for-the-badge&logo=vercel' alt='vercel'/>
 </div>
 </br>
+
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomashanahan&show_icons=true&theme=nord)
 
 </br>
 
