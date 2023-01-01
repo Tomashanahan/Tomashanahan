@@ -37,12 +37,12 @@
 </div>
 
 ### Studying in this moment:
-
-<img src='https://img.shields.io/badge/nestjs-02040A.svg?style=for-the-badge&logo=nestjs&logoColor=red' alt='Nest'/>
-<img src='https://img.shields.io/badge/typeorm-02040A.svg?style=for-the-badge&logo=typeorm&logoColor=red' alt='Typeorm'/>
-<img src='https://img.shields.io/badge/docker-02040A.svg?style=for-the-badge&logo=docker&logoColor=blue' alt='Docker'/>
-<img src='https://img.shields.io/badge/travis-02040A.svg?style=for-the-badge&logo=travis' alt='travis'/>
-
+<div>
+  <img src='https://img.shields.io/badge/nestjs-02040A.svg?style=for-the-badge&logo=nestjs&logoColor=red' alt='Nest'/>
+  <img src='https://img.shields.io/badge/typeorm-02040A.svg?style=for-the-badge&logo=typeorm&logoColor=red' alt='Typeorm'/>
+  <img src='https://img.shields.io/badge/docker-02040A.svg?style=for-the-badge&logo=docker&logoColor=blue' alt='Docker'/>
+  <img src='https://img.shields.io/badge/travis-02040A.svg?style=for-the-badge&logo=travis' alt='travis'/>
+</div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tomashanahan}/count.svg" /></p> 
